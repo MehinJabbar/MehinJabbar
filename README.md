@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Mehin Jabbarova! 🚀
 
-<!--
-**MehinJabbar/MehinJabbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Frontend Developer** and **Computer Science student** based in Poland, transitioning from a high-level **Microsoft Technical Support** background into engineering. I bridge the gap between technical troubleshooting and building user-centric, responsive web applications.
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frameworks:** Vue.js (3, Pinia), React (Hooks, Context), Quasar
+- **Tools:** Git, GitHub, Vite, Vitest, Cypress, Jira
+- **Enterprise Expertise:** Microsoft M365 Admin, Azure AD, Technical Root-Cause Analysis
+
+### 🔭 Current Focus
+- ⚛️ **Actively adopting React/Next.js** for enterprise-scale projects.
+- 🎨 **Mastering Tailwind CSS** to build pixel-perfect, mobile-first UIs.
+- 🎓 **B.Sc. in Computer Science** at the University of Lodz.
+
+### 📊 GitHub Stats
+![Mehin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehinJabbar&show_icons=true&theme=radical)
+
+### 🤝 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/mehinjabbarova/)
+- [Email](mailto:mehinjabbarova@gmail.com)
