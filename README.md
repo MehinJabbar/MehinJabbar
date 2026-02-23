@@ -19,10 +19,10 @@ I am a **Frontend Developer** and **Computer Science student** based in Poland, 
 
 ### 📊 GitHub Stats
 
-https://glistening-semifreddo-9cfd8e.netlify.app/
-https://magical-clafoutis-2c06d5.netlify.app/
-https://magenta-mooncake-ab00f6.netlify.app/
-https://rococo-tarsier-ecd081.netlify.app/
+1. https://glistening-semifreddo-9cfd8e.netlify.app/
+2. https://magical-clafoutis-2c06d5.netlify.app/
+3. https://magenta-mooncake-ab00f6.netlify.app/
+4. https://rococo-tarsier-ecd081.netlify.app/
 
 ### 🤝 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mehinjabbarova/)
