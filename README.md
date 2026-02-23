@@ -18,7 +18,11 @@ I am a **Frontend Developer** and **Computer Science student** based in Poland, 
 - 🎓 **B.Sc. in Computer Science** at the University of Lodz.
 
 ### 📊 GitHub Stats
-![Mehin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehinJabbar&show_icons=true&theme=radical)
+
+https://glistening-semifreddo-9cfd8e.netlify.app/
+https://magical-clafoutis-2c06d5.netlify.app/
+https://magenta-mooncake-ab00f6.netlify.app/
+https://rococo-tarsier-ecd081.netlify.app/
 
 ### 🤝 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mehinjabbarova/)
